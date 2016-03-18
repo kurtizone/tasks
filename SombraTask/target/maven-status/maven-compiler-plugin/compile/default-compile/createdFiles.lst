@@ -1,0 +1,4 @@
+com\task\config\AppConfig.class
+com\task\config\AppInitializer.class
+com\task\controller\TaskController.class
+com\task\model\Message.class
